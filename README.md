@@ -5,9 +5,9 @@ The folder contained the current and old image with differences showed.
 The current version is compatible with Python 3.7.
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/da)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/daddi1987/Image_Comparison)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/daddi1987/Image_Comparison)
 ![GitHub issues](https://img.shields.io/github/issues/daddi1987/Image_Comparison)
-![GitHub all releases](https://img.shields.io/github/downloads/daddi1987/Image_Comparison/total)
+![GitHub all releases](https://img.shields.io/github/downloads/daddi1987/Image_Comarison/total)
 
 **Table of Contents**
 
