@@ -11,7 +11,7 @@ The current version is compatible with Python 3.7.
 
 **Table of Contents**
 
-[TOC]
+[TOCM]
 
 
 ------------
