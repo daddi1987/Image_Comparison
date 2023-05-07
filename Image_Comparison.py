@@ -151,7 +151,10 @@ while (ActualPhoto != (NumberPhoto + bufferFileNotFound)):
             #image = cv2.imread(args["first"])
 
             image = cv2.imread(PathImageMasterGUI)
+            if image is None:
+                break
             clone = image.copy()
+
             cv2.namedWindow("image")
             cv2.setMouseCallback("image", click_and_crop)
             #------------------------------------------------------------------------
